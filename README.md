@@ -1,2 +1,0 @@
-# hoodiepractice
-Created with CodeSandbox
